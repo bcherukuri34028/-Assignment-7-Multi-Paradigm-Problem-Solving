@@ -1,4 +1,6 @@
 Assignment 7: Multi-Paradigm Problem Solving
+
+
 Abstract
 This assignment explores how the same problem—calculating mean, median, and mode from a list of integers—can be solved using three different programming paradigms: procedural, functional, and object-oriented. I implemented the solution in C (procedural), OCaml (functional), and Python (object-oriented). Each approach came with its own syntax, logic style, and learning curve. This report highlights my experience working with each paradigm, the differences I noticed, and the challenges I faced.
 
